@@ -23,7 +23,7 @@ The graphical interface includes sliders for adjusting parameters (α, β, δ, �
 
 ## Preview
 
-![Simulation example](images/example_plot.png)  
+![Simulation example](https://github.com/Tekton-MAS/Lotka-Volterra/blob/main/Lotka-Volterra_sample.jpg) 
 *Example output of the simulation with default parameters*
 
 ## Installation and Usage
